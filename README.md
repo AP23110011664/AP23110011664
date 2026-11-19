@@ -162,28 +162,46 @@ Class X | 98% | 2020
 
 ### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula" height="150" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dracula" height="150" />
-</p>
+\<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark" />
-</p>
+\<!-- GitHub Stats -->
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Animation" />
-</div>
+\<img src="[https://github-readme-stats.vercel.app/api?username=AP23110011664&show_icons=true&theme=dracula&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=AP23110011664\&show_icons=true\&theme=dracula\&include_all_commits=true\&count_private=true)" height="165" />
+
+\<!-- Top Languages -->
+
+\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AP23110011664&layout=compact&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=AP23110011664\&layout=compact\&theme=dracula)" height="165" />
+
+\<!-- Contribution Streak -->
+
+\<img src="[https://streak-stats.demolab.com?user=AP23110011664&theme=dracula](https://streak-stats.demolab.com?user=AP23110011664\&theme=dracula)" height="165" />
+
+\</div>
+
+### 💻 Top Languages
+
+\<div align="center">
+
+
+\
+
+
+\</div>
+
+### 📈 Contribution Activity
+
+\<p align="center">
+&#x20; \<img src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AP23110011664&theme=github_dark](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AP23110011664\&theme=github_dark)" width="100%" />
+\</p>
+
+### 🐍 Contribution Snake
+
+\<p align="center">
+&#x20; \<img src="[https://raw.githubusercontent.com/AP23110011664/AP23110011664/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/AP23110011664/AP23110011664/output/github-contribution-grid-snake.svg)" alt="GitHub Contribution Snake" width="100%" />
+\</p>
 
 ---
 
-<div align="center">
+\<h3 align="center">👀 Profile Visitors\</h3>
 
-### 👀 Profile Visitors
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME" />
-
-**Thanks for visiting my profile! Let's build something impactful together. 🚀**
-
-</div>
+\<p align="center">   \<img src="[https://visitor-badge.laobi.icu/badge?page_id=AP23110011664.AP23110011664](https://visitor-badge.laobi.icu/badge?page_id=AP23110011664.AP23110011664)" /> \</p>
